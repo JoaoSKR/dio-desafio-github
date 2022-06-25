@@ -1,0 +1,16 @@
+GIT
+
+é um sistema de controle de versões distribuído, usado principalmente no 
+desenvolvimento de software, mas pode ser usado para registrar o histórico 
+de edições de qualquer tipo de arquivo.
+
+Link do GIT: https://git-scm.com/
+
+GitHub
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com 
+controle de versão usando o Git. Ele permite que programadores, utilitários
+ou qualquer usuário cadastrado na plataforma contribuam em projetos privado
+s e/ou Open Source de qualquer lugar do mundo.
+
+Link do GitHub: https://github.com/
